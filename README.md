@@ -17,7 +17,7 @@ I am a software developer with a passion for learning and building projects. Wel
 ![Saracomethstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saracomethstein&show_icons=true&theme=onedark)
 
 ### 📫 Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://twitter.com/yourusername)&nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/saracomethstein)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:adelsevastanov@gmail.com)&nbsp;
 
 ### 🏆 Achievements:
