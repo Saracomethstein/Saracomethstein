@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Saracomethstein/Saracomethstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a software developer with a passion for learning and building projects. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=make)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Stats:
+![Saracomethstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saracomethstein&show_icons=true&theme=onedark)
+
+### 📫 Connect with me:
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://twitter.com/yourusername)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:adelsevastanov@gmail.com)&nbsp;
+
+### 🏆 Achievements:
+![trophy](https://github-profile-trophy.vercel.app/?username=Saracomethstein&theme=onedark)
+
+### 🖥️ Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saracomethstein&layout=compact&theme=onedark)
