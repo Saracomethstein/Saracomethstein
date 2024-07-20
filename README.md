@@ -3,6 +3,10 @@
 ### About Me
 I am a software developer with a passion for learning and building projects. Welcome to my GitHub profile!
 
+###  Connect with me:
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/saracomethstein)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:adelsevastanov@gmail.com)&nbsp;
+
 ### 🛠️ Languages and Tools:
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
@@ -13,15 +17,6 @@ I am a software developer with a passion for learning and building projects. Wel
 ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=make)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
 
-### 🌟 Stats:
 ![Saracomethstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saracomethstein&show_icons=true&theme=onedark)
 
-### 📫 Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/saracomethstein)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:adelsevastanov@gmail.com)&nbsp;
-
-### 🏆 Achievements:
-![trophy](https://github-profile-trophy.vercel.app/?username=Saracomethstein&theme=onedark)
-
-### 🖥️ Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saracomethstein&layout=compact&theme=onedark)
