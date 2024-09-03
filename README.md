@@ -17,6 +17,6 @@ I am a software developer with a passion for learning and building projects. Wel
 ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=make)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
 
-![Saracomethstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saracomethstein&show_icons=true&theme=onedark)
+<!-- ![Saracomethstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saracomethstein&show_icons=true&theme=onedark) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saracomethstein&layout=compact&theme=onedark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saracomethstein&layout=compact&theme=onedark) -->
